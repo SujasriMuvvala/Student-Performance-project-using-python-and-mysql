@@ -1,5 +1,4 @@
 # Student-Performance-project-using-python-and-mysql
-
 ## Overview
 The Student Performance Prediction and Analytics Platform is a Python and MySQL based data analytics project developed to analyze and predict student academic performance.
 
